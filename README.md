@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <div align="left">
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Omar-Abduh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  ### 🔝 Top Contributed Repo
+  ![](https://github-contributor-stats.vercel.app/api?username=Omar-Abduh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </div>
 
