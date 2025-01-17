@@ -44,7 +44,6 @@ Here are some ideas to get you started:
 </div>
 ###
 
-###
 
 <br clear="both">
 
@@ -112,5 +111,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   ### 🔝 Top Contributed Repo
-  ![](https://github-contributor-stats.vercel.app/api?username=Omar-Abduh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  [![](https://visitcount.itsvg.in/api?id=Omar-Abduh&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
+
