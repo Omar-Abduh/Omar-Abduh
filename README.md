@@ -15,24 +15,21 @@ Here are some ideas to get you started:
 # 💫 About Me:
 👋 Hi, I’m Omar Mohamed Abduh<br>🎓 Currently pursuing my studies at ElSewedy University of Technology (SUT)<br>🔐 Majoring in Network and Cyber Security<br>💻 Passionate about cybersecurity, network infrastructure, and exploring the latest technologies to secure digital environments.  <br>🌱 I’m continuously learning and expanding my skills in areas like network defense, ethical hacking, and cybersecurity best practices.  <br>🚀 Open to collaborating on projects, contributing to open-source, and connecting with like-minded individuals in the tech community.  <br>
 
-###
-<br clear="both">
-
-<div align="left">
+<div align="center">
   <a href="https://linkedin.com/in/omar-abduh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://facebook.com/MeshOmarAbduh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://instagram.com/_not_king_bob_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://discord.gg/Omar_Abduh#0208" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="t.me/OmarMohamedAbdo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  <a href="https://t.me/OmarMohamedAbdo" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
 
