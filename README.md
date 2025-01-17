@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 👋 Hi, I’m Omar Mohamed Abduh<br>🎓 Currently pursuing my studies at ElSewedy University of Technology (SUT)<br>🔐 Majoring in Network and Cyber Security<br>💻 Passionate about cybersecurity, network infrastructure, and exploring the latest technologies to secure digital environments.  <br>🌱 I’m continuously learning and expanding my skills in areas like network defense, ethical hacking, and cybersecurity best practices.  <br>🚀 Open to collaborating on projects, contributing to open-source, and connecting with like-minded individuals in the tech community.  <br>
-
+<div align="left">
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Omar_Abduh#0208) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MeshOmarAbduh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_not_king_bob_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-abduh) 
-
+</div>
 ###
 # 📊 GitHub Stats:
 <div align="center">
