@@ -106,7 +106,6 @@ Here are some ideas to get you started:
 
 ###
 
-# ✍️ Dev Quote
-<div align="center">
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
+
