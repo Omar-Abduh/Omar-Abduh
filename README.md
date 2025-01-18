@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-👋 Hi, I’m Omar Mohamed Abduh<br>🎓 Currently pursuing my studies at ElSewedy University of Technology (SUT)<br>🔐 Majoring in Network and Cyber Security<br>💻 Passionate about cybersecurity, network infrastructure, and exploring the latest technologies to secure digital environments.  <br>🌱 I’m continuously learning and expanding my skills in areas like network defense, ethical hacking, and cybersecurity best practices.  <br>🚀 Open to collaborating on projects, contributing to open-source, and connecting with like-minded individuals in the tech community.  <br>
+# Hi, I’m Omar! 👋 
+## 💫 About Me:
+🎓 Currently pursuing my studies at ElSewedy University of Technology (SUT)<br>🔐 Majoring in Network and Cyber Security<br>💻 Passionate about cybersecurity, network infrastructure, and exploring the latest technologies to secure digital environments.  <br>🌱 I’m continuously learning and expanding my skills in areas like network defense, ethical hacking, and cybersecurity best practices.  <br>🚀 Open to collaborating on projects, contributing to open-source, and connecting with like-minded individuals in the tech community.  <br>
 <br> 
 <div align="center">
   <a href="https://linkedin.com/in/omar-abduh" target="_blank">
